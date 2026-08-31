@@ -1,0 +1,18 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Output artifacts
+output/*.html
+output/*.json
+
+# OS files
+.DS_Store
+
+# Editor files
+.vscode/

@@ -1,0 +1,9 @@
+{
+  "REGION_NAME": "Example Region",
+  "COUNTRIES": [],
+  "SHORT": {},
+  "SPONSORSHIP": false,
+  "SUBOFFICE_RULE": "None",
+  "WORKBOOK_PATH": "data/workbooks/FY26_AIM_AIM_Plus_Executive_Dashboard_vShare.xlsx",
+  "OUTPUT_HTML": "output/index.html"
+}
